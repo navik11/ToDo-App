@@ -9,18 +9,12 @@ This is a simple ToDo app built with Flutter that helps you structure your daily
 - Add tasks with titles and descriptions
 - Mark tasks as completed
 - Delete tasks
-- Filter tasks by status (All, Active, Completed)
-- Responsive design for mobile and web
+- Filter tasks by search feature
 
-## Requirements
+## Contact
 
-- Flutter SDK
-- Android Studio / Xcode (for mobile deployment)
-- Web browser (for web deployment)
+For questions or feedback, please contact navik09.me@gmail.com.
 
-## Installation
+Happy organizing your tasks with ToDo App! 🚀
 
-1. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/todo-app.git
