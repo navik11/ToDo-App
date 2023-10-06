@@ -1,8 +1,6 @@
 # ToDo-App: Flutter
 
-## Overview
-
-This is a simple ToDo app built with Flutter that helps you structure your daily tasks. It is designed to work seamlessly on Android, iOS, and web platforms.
+A simple ToDo app built with Flutter that helps you structure your daily tasks. It is designed to work seamlessly on Android, iOS, and web platforms.
 
 ## Features
 
